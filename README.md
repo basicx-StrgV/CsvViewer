@@ -14,3 +14,4 @@ After that the file will be read line by line. While reading, the first line wil
 
 After the file is read, the date will be rendered as a table to the console.
 
+![sample image](https://raw.githubusercontent.com/basicx-StrgV/TerminalCsvViewer/main/images/csvViewerSample.png)
