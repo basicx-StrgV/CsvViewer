@@ -1,4 +1,4 @@
-# TerminalCsvViewer
+# CsvViewer
 
 ## What is this project
 
